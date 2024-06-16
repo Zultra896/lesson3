@@ -1,0 +1,9 @@
+.b p {
+font-weight: bold;
+color: red;
+}
+
+.b h2 {
+    text-decoration: underline;
+    color: blue;
+}
